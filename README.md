@@ -1,2 +1,2 @@
 # InsureAI
-This repository consists a collection of larger number of files & folders which I learn througthout my Infosys Springboard Virtual Internship.
+This repository consists a collection files & folders which I learnt througthout my Infosys Springboard Virtual Internship.
